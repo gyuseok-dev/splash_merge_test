@@ -1,2 +1,2 @@
 # splash_merge_test
-# This is Splash Merge Test
+# This is Splash Merge Test!
