@@ -1,4 +1,8 @@
 # splash_merge_test
 # This is Splash Merge Test!
 # conflict message
-# add commit template
+
+
+sdsds
+test2
+
